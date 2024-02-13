@@ -1,13 +1,11 @@
-.click {
+.button{
     font-size: 28px;
-    font-family: Helvetica, "times new roman", sans-serif;
+    font-family: Helvetica, Times New Roman, sans-serif;
 }
-
-.yes {
-    color: white;
+.first{
     background-color: black;
+    color: white;
 }
-
-.No {
+.second {
     background-color: yellow;
 }
